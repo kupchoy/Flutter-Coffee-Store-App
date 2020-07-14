@@ -5,7 +5,7 @@ user can select what they want to purchase with an order modal.  Uses Scoped Mod
 and also implements simple unit tests.
 
 ### Main screen
-![]( "main")
+![](https://github.com/kupchoy/Flutter-Coffee-Store-App/blob/master/coffe_store_app_main.jpg "main")
 
 ### Order modal
-![]( "order")
+![]( https://github.com/kupchoy/Flutter-Coffee-Store-App/blob/master/coffe_store_app_order.jpg "order")
